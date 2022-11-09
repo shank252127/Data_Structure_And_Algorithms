@@ -1,0 +1,14 @@
+One of the most important applications of stacks is to check 
+if the parentheses are balanced in a given expression. 
+The compiler generates an error if the parentheses are not matched.
+
+
+
+Consider the above mentioned unbalanced expressions:
+
+
+
+1.The expression ( a + b is unbalanced as there is no closing parenthesis given.
+2.The expression [ ( c - d * e ] is unbalanced as the closed round parenthesis is not given.
+3.The expression { [ ( ] ) } is unbalanced as the nesting of square parenthesis and the round parenthesis are incorrect.
+4.The expression ( a + b ) is balanced as there is closing parenthesis given for all opening parenthesis .
